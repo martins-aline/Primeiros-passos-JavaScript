@@ -1,4 +1,4 @@
-## 1° projeto!!!
+## 1° projeto JS
 
 ### Contador 🚀
 
@@ -7,4 +7,4 @@ Neste projeto foi feita a integração de um contator usando JavaScript. O que f
 - Manipulação de arquivos.
 - Funções.
 - Interação com Elemetos do DOM.
-# Primeiros-passos-JavaScript
+
