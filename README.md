@@ -1,4 +1,4 @@
-#### Contador 🚀
+#### Contador 
 
 Neste projeto foi feita a integração de um contator usando JavaScript. O que foi visto durante o desenvolvimento:
 
@@ -15,5 +15,6 @@ Um pouco do meus estudos de JS nas seguintes pastas:
  - Funções.
  - Funções - Aprofundando.
  - Variáveis.
+ - Atividades práticas
  
-*Ah! na pasta: Funções - Aprofundando também um projeto de calculadora feito somente com JavaScript 🙂* 
+*na pasta: Funções - Aprofundando também um projeto de calculadora feito somente com JavaScript 🙂* 
