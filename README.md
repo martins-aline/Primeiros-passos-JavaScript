@@ -15,6 +15,7 @@ Um pouco do meus estudos de JS nas seguintes pastas:
  - Funções.
  - Funções - Aprofundando.
  - Variáveis.
- - Atividades práticas
+ - Atividades práticas.
+ - Tratamento de erros. 
  
 *na pasta: Funções - Aprofundando também um projeto de calculadora feito somente com JavaScript 🙂* 
