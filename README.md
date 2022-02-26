@@ -17,5 +17,6 @@ Um pouco do meus estudos de JS nas seguintes pastas:
  - Variáveis.
  - Atividades práticas.
  - Tratamento de erros. 
+ - JS assíncrono. 
  
 *na pasta: Funções - Aprofundando também um projeto de calculadora feito somente com JavaScript 🙂* 
