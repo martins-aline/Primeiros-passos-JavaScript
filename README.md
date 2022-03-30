@@ -1,4 +1,6 @@
-#### Bem vindo(a)! Aqui você verá um pouco do meus estudos de JS nas seguintes pastas:
+### Bem vindo(a)!!!
+
+ Aqui você verá um pouco do meus estudos de JS nas seguintes pastas:
 
 - Array e Object.
 - Atividades.
@@ -13,7 +15,9 @@
 - Tratamento de erros.
 - JS assíncrono.
 
-### Índice de pequenos projetos: (mais informações acessando as pastas acima)
+### Índice de pequenos projetos: 
+
+ Mais informações acessando as pastas acima.
 
 - #### Contador
 
