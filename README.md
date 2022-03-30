@@ -17,7 +17,7 @@
 
 ### Índice de pequenos projetos: 
 
- Mais informações acessando as pastas acima.
+Mais informações acessando as pastas acima.
 
 - #### Contador
 
@@ -25,12 +25,12 @@
 
 - #### Funções - Aprofundando
 
-Calculadora simples feita somente com JavaScript.
+  Calculadora simples feita somente com JavaScript.
 
 - #### DOM
 
-Aplicação de Ligth Mode/Dark Mode em uma página web
+  Aplicação de Ligth Mode/Dark Mode em uma página web
 
 - #### Cat API
 
-Uma página que carrega fotos aleatórias de gatinhos sempre que clicamos no botão.
+  Uma página que carrega fotos aleatórias de gatinhos sempre que clicamos no botão.
